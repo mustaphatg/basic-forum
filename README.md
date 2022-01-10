@@ -4,7 +4,6 @@ Hi, am Mustapha, a PHP developer. I started playing with git and github in the l
 
 Basic Forum
 
-![alt text](http://my-basic-forum.42web.io/basic-forum.jpg)
 
 This is a mini forum I created with PHP / Codeigniter 3 , foundation CSS and axiosjs during my early days of leaning PHP.
 
