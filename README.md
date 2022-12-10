@@ -4,7 +4,7 @@
 
 This is a mini forum I created with PHP / Codeigniter 3 , foundation CSS and axiosjs during my early days of leaning PHP.
 
-It is hosted at http://basic-forum.epizy.com
+It is hosted at https://basicforum.mustapha.com.ng
 
 ## Features
 1. User registration and login
